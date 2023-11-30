@@ -60,7 +60,7 @@ st.sidebar.image("aboutme.png")
 
 st.image("taytol.png", use_column_width=True)
 
-st.markdown("<p style='text-align: center; font-family: serif; font-size: 14px;'>-Joriz Brent Rule-</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-family: serif; font-size: 14px; color: #29240C'>-Joriz Brent Rule-</p>", unsafe_allow_html=True)
 
 #eme ra sie para change color sa barline
 with open('first.css') as source_des:
