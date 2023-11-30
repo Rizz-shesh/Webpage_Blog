@@ -1,0 +1,37 @@
+/*span.css-10trblm.e16nr0p33
+{
+    background-color: burlywood;
+    color: skyblue;
+    border-radius: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+div.css-177yq5e.e16nr0p30>hr{
+    background-color: burlywood;
+}*/
+h1.heading{  /*kani wanani pulos kay ako taytol tag edit ko rakan through pic*/
+    background-color: rgba(112, 107, 103, 0); 
+    color: rgb(43, 43, 36);
+    width: 50px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-style: italic;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3) ;
+}
+h3.subheading{  /*kalimot ko ani haha*/
+    color: rgb(71, 58, 14);
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-style: italic;
+}
+
+div.st-emotion-cache-yr77l2.e1nzilvr5>hr{ /*kani sja sa barline ni*/ 
+    background-color: rgb(85, 72, 44);  
+}
+/*para nis underlined kaso kamaut man haha maybe next time*/
+/*.heading {
+    text-decoration: underline;
+    text-decoration-color: rgba(39, 39, 37, 0.669); #color ni sja
+    text-underline-offset: 5px; 
+}

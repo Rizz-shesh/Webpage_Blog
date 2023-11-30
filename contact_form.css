@@ -1,0 +1,33 @@
+/* sa ano ini Your Name */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ddd; 
+    border-radius: 200px; 
+    box-sizing: border-box;
+    margin-top: 10px; 
+    margin-bottom: 20px; 
+    transition: border-color 0.3s;
+}
+
+/* Sa ano sab ini Your */
+input[type=submit] {
+    background-color: rgb(126, 139, 30); 
+    color: white;
+    padding: 14px 24px; 
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]::backdrop {
+    background-color: #9629be;
+}
+
+/* Asa outline nan border */
+input[type=text]:focus, select:focus, textarea:focus {
+    border-color: rgb(52, 56, 23);
+    outline: none;
+}
