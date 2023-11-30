@@ -76,7 +76,7 @@ with st.container():
     with left_column:
         st.image("me.png")
     with right_column:
-        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17.1px;">
+        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17.1px; font-color: Black;">
                  I had always enjoyed tinkering with computers, computer games and technology, but it wasn't until my last year of senior high school that I firmly decided I wanted to pursue College and choose a major that is related on what I want, it includes – Computer Engineering, Computer Science, Information Technology and etc. all about computer and programmings. 
                  When it comes to tech’s I am so interested that even my inner child of mine get excite on how computer works how those programming language organize or use and what are their functionality all of those curiosity hit me. However,    
                 </div>""", unsafe_allow_html=True)
