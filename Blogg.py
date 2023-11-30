@@ -76,11 +76,11 @@ with st.container():
     with left_column:
         st.image("me.png")
     with right_column:
-        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17.1px; color: Black;">
+        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17.1px; color: #29240C;">
                  I had always enjoyed tinkering with computers, computer games and technology, but it wasn't until my last year of senior high school that I firmly decided I wanted to pursue College and choose a major that is related on what I want, it includes – Computer Engineering, Computer Science, Information Technology and etc. all about computer and programmings. 
                  When it comes to tech’s I am so interested that even my inner child of mine get excite on how computer works how those programming language organize or use and what are their functionality all of those curiosity hit me. However,    
                 </div>""", unsafe_allow_html=True)
-st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17.1px;">
+st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17.1px; color: #29240C">
          given my background in Senior High School - HUMSS academic track, I knew getting into these competitive majors could be an uphill climb.
          </div>""", unsafe_allow_html=True)
 
@@ -92,13 +92,13 @@ st.markdown("""<h2 style='text-align: center; color: black; font-size: 1.1em; fo
 with st.container():
     left_column, right_column = st.columns((1,1))
     with left_column:
-        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17px;">
+        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17px; color: #29240C">
                 I try to register in many Universities in my place that offered major programs that I would like. I also asked my mom and friends on what Program would I fit, would it be Computer Engineering, Computer Science or Information Technology. 
                  While I pass on other university, I ultimately decided on Surigao del Norte State University since the entrance exam requirements seemed more achievable. SNSU was also close to home, which meant I could save money by living with my mom those first few years.  
                 Come entrance
                  </div>""", unsafe_allow_html=True)
     with right_column:
-        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17px;">
+        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17px; color: #29240C">
                  exam day, I could hardly eat breakfast, riddled with nerves over the technical concepts I struggled to grasp. The intense on the questions on the entrance exam paper, dejectedly convinced I had failed. The week-long wait tormented me. 
                  Spotting my name on the Entrance exam & and the other one exam (which is for the engineers only, I forgot what exam is that) list sparked utter disbelief and joy. My mom, previously worried over my chances, beamed with pride in me. I was so so happy to be a official SNSUAN’s!.
             </div>""", unsafe_allow_html=True)
@@ -114,7 +114,7 @@ with st.container():
     with center_column:
         st.image("logo.png")
     with right_column:
-        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17px;">
+        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17px; color: #29240C">
                  Stepping foot onto the SNSU campus that first day felt strange, like I had entered some secret club I didn't belong to. Other freshmen seemed to easily fall into groups, 
                  while I mainly observed from the edge exchanging quick smiles. The classes themselves posed a shock - suddenly I was immersed in Calculus 1 and Programming that often mystified me. 
                 </div>""", unsafe_allow_html=True)
@@ -124,7 +124,7 @@ with st.container():
     with right_column:
         st.image("A4.png")
     with left_column:
-        st.markdown("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17px; font-style: bold-italic;">
+        st.markdown("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17px; font-style: bold-italic; color: #29240C">
                  Building relationships felt like a gradual warming, as some of us uncovered a shared experience of being lost and overwhelmed.
                   My new group of comrades became central to surviving that initial transition - we spent hours studying in library and lrc, 
                  complaining about coursework, and motivating each other to power through self-doubts. Having that support system and knowing 
@@ -142,13 +142,13 @@ with st.container():
     with left_column:
         st.image("comlb.png")
     with right_column:
-        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17.38px;">
+        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 17.38px; color: #29240C">
                  Despite developing those first precious friendships, my lowest point first semester came during Introduction to Computer Programming. 
                  While I had always enjoyed working with computers, the coding syntax seemed like a foreign language.
                   I labored for hours trying to absorb the logic structures to translate ideas into commands the machine could execute.
                 </div>""", unsafe_allow_html=True)
 
-st.write("""<div style="text-align: justify; margin-bottom: 18px; font-family: 'Times New Roman', serif; font-size: 17px;">
+st.write("""<div style="text-align: justify; margin-bottom: 18px; font-family: 'Times New Roman', serif; font-size: 17px; color: #29240C">
           My confidence went down when i received my written midterm exam results - 
          a score of 29/60 was like a punch in the gut after all the diligent studying.
          </div>""", unsafe_allow_html=True)
@@ -158,7 +158,7 @@ with st.container():
     with right_column:
         st.image("https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif", use_column_width=True)
     with left_column:
-        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 15.3px; margin-bottom: 20px">
+        st.write("""<div style="text-align: justify; font-family: 'Times New Roman', serif; font-size: 15.3px; margin-bottom: 20px; color: #29240C">
                  But worse still came the crushing realization that I had completely bombed the first hands-on coding (C-language) examination, scoring a 0/100, 
                 I shuffled back to my house room feeling so defeated that I briefly questioned if I was cut out for this program after all. My mom's reassuring words lifted my spirits...
                 as did the second chance my professor granted our class to redo the examination. 
@@ -169,11 +169,11 @@ with st.container():
     with left_column:
         st.image("https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif", use_column_width=True)
     with right_column:    
-        st.write("""<div style="text-align: justify; font-size: 17px; font-family: 'Times New Roman', serif;">
+        st.write("""<div style="text-align: justify; font-size: 17px; font-family: 'Times New Roman', serif; color: #29240C">
         The night before our code retake, Sandyr, Mike, Kenan, and I began studying for our upcoming hands-on exam. 
         On the retake day, it was so intimidating because the aura of my classmate
         </div>""", unsafe_allow_html=True)
-st.write("""<div style="text-align: justify; font-size: 16.8px;font-family: 'Times New Roman', serif; font-size: 17px;">
+st.write("""<div style="text-align: justify; font-size: 16.8px;font-family: 'Times New Roman', serif; font-size: 17px; color: #29240C">
         seemed so different, but our instructor reassured us that the retake hands-on examination was easy. The timer started, 
         and Kurt Chua completed the code within 8 minutes. It's so amazing how he completed it so quickly.
         Fast forward: My friend Sandyr is also done with his code. Here comes the thrill part: after almost 2 hours of coding, 
@@ -186,7 +186,7 @@ with st.container():
     with right_column:
         st.image("https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif", use_column_width=True)
     with left_column:
-        st.write("""<div style="text-align: justify; font-size: 18.2px; font-family: serif;">
+        st.write("""<div style="text-align: justify; font-size: 18.2px; font-family: serif; color: #29240C">
         starting to panic because the compiler wouldn’t read or run my code, but thank God! I clutched the 3 minutes and finished it, and I got a perfect score. I surprised even myself by completing the entire coding examination correctly! That small win restored my determination; with my friends by my side, I knew together we could master any programming obstacles ahead.
         </div>""", unsafe_allow_html=True)
 st.markdown("---")
@@ -199,14 +199,14 @@ st.markdown("""<h2 style='text-align: left; color: black; font-size: 1.2em; font
 with st.container():
     right_column, left_column = st.columns((1,1))
     with right_column:
-       st.write("""<div style="text-align: justify; font-size: 17px;  font-family: serif;">
+       st.write("""<div style="text-align: justify; font-size: 17px;  font-family: serif; color: #29240C">
         That first semester's trials so far taught me problem-solving and perseverance.
         Having made it through my freshman challenges and now reaching the midpoint of my academic journey, 
         I feel wind at my back, propelling me towards new challenges. 
         Knowing the rewarding feeling of grasphing complex code  
         </div>""", unsafe_allow_html=True) 
     with left_column:
-       st.write("""<div style="text-align: justify; font-size: 17px;font-family: serif;">
+       st.write("""<div style="text-align: justify; font-size: 17px;font-family: serif; color: #29240C">
         giving me confidence to continue levelling up my skills. I'm thrilled at all I still have left to discover on my journey towards becoming a computer engineer. 
         he road has had some unexpected twists and turns - but by leaning on new friends who share this dream, 
         I know the next bend holds fresh adventures! 
@@ -216,7 +216,7 @@ st.markdown("---")
 
 #Contact form ni kung naay gusto mo pm sa ako fb ok rasab hihi
 with st.container():
-    st.markdown("""<h3 style='font-family: serif;font-style: italic; '>
+    st.markdown("""<h3 style='font-family: serif;font-style: italic; color: #29240C'>
                 📬 Connect With Me
                 </h3>""", unsafe_allow_html=True)
 
