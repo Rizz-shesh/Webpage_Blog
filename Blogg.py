@@ -224,13 +224,13 @@ with st.container():
 
     Contact_form = """<form action="https://formsubmit.co/jorizrule0@gmail.com" method="POST">    
     <input type="hidden" name="_captcha" value="false">
-    <label for="name" style = "font-family: serif;">Full name:</label>
+    <label for="name" style = "font-family: serif; color: #29240C">Full name:</label>
     <input type="text" name="name" required>
-    <label for="email" style = "font-family: serif;">Your Email:</label>
+    <label for="email" style = "font-family: serif; color: #29240C">Your Email:</label>
     <input type="email" name="email" required>
-    <label for="message" style = "font-family: serif;" >Your Message:</label>
+    <label for="message" style = "font-family: serif; color: #29240C" >Your Message:</label>
     <textarea name="message" required></textarea>
-    <button type="submit" style = "font-family: serif;" >Send</button>
+    <button type="submit" style = "font-family: serif; color: #29240C" >Send</button>
     </form>"""
 
 left_column, right_column = st.columns(2)
